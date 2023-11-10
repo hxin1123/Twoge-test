@@ -1,5 +1,6 @@
 # Twoge-test
-## efe
+## Steps
+### 1. create VPC
 ```
 cd twoge
 ```
